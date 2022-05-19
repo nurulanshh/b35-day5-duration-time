@@ -311,12 +311,12 @@ select, textarea {
 textarea {height: 100px;}
 textarea[type="text-description"] {height: 100px;}
 
-.container-my-project-form .input-blog-image-group label {
+.container-my-project-form .input-project-image-group label {
   font-size: 15px;
   display: flex;
 }
 
-.container-my-project-form .input-blog-image-group label {
+.container-my-project-form .input-project-image-group label {
   cursor: pointer;
   flex: 50%;
   align-items: center;
